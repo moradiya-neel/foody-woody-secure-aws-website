@@ -164,7 +164,6 @@ See [`docs/06-monitoring-and-compliance.md`](docs/06-monitoring-and-compliance.m
 foody-woody-secure-aws-website/
 ├── README.md
 ├── .gitignore
-├── LICENSE
 ├── assets/
 │   ├── architecture/
 │   │   └── foody-woody-architecture-diagram.png
